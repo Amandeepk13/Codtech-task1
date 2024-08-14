@@ -21,9 +21,10 @@ This project is a real-time chat application that allows users to communicate wi
 * Chat history storage
 
 ## Tech Stack
-Frontend: React
-Backend: Node.js with Express and Socket.io
-Database: MongoDB with Mongoose
-Authentication: JSON Web Tokens (JWT) with Bcryptjs
-State Management: Redux with Redux Toolkit and Redux Persist
-Styling: Tailwind CSS with Daisy UI
+
+* **Frontend**: React
+* **Backend**: Node.js with Express and Socket.io
+* **Database**: MongoDB with Mongoose
+* **Authentication**: JSON Web Tokens (JWT) with Bcryptjs
+* **State Management**: Redux with Redux Toolkit and Redux Persist
+* **Styling**: Tailwind CSS with Daisy UI
