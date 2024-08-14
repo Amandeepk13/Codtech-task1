@@ -14,11 +14,11 @@ This project is a real-time chat application that allows users to communicate wi
 
 ## Features
 
-User authentication
-Real-time messaging
-Chat rooms
-Private messaging
-Chat history storage
+* User authentication
+* Real-time messaging
+* Chat rooms
+* Private messaging
+* Chat history storage
 
 ## Tech Stack
 Frontend: React
